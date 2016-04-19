@@ -17,7 +17,7 @@ spec:
           image: sameersbn/gitlab:8.6.6
           env:
             - name: TZ
-              value: Asia/Kolkata
+              value: America/Sao_Paulo
             - name: GITLAB_TIMEZONE
               value: Kolkata
 
